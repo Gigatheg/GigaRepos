@@ -1,3 +1,3 @@
-# this is mt first repo
+# this is my first repo
 
 hello world
